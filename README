@@ -7,9 +7,9 @@ AUTHORS
 -------------------------------------------------------------------------------
 FILES
 -------------------------------------------------------------------------------
-* mp2_node.h - header file for mp2_node.c
+* mp1_node.h - header file for mp1_node.c
 
-* mp2_node.c - contains all the functionality for a member.
+* mp1_node.c - contains all the functionality for a member.
 
 * emulnet.h - header file for emulnet.c
 
